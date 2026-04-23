@@ -21,5 +21,14 @@
             "name": "sky_take_out_local"
         }
     ],
-    "java.compile.nullAnalysis.mode": "automatic"
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.jdt.ls.java.home": "C:\\Users\\86159\\.jdks\\corretto-17.0.13",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "C:\\Users\\86159\\.jdks\\corretto-17.0.13",
+            "default": true
+        }
+    ],
+    "maven.terminal.useJavaHome": true
 }
