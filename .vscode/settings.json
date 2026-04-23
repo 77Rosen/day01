@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3307,
+            "driver": "MySQL",
+            "database": "sky_take_out",
+            "username": "root",
+            "password": "root",
+            "name": "com.mysql.cj.jdbc.Driver"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3307,
+            "driver": "MySQL",
+            "database": "sky_take_out",
+            "username": "root",
+            "password": "root",
+            "name": "sky_take_out_local"
+        }
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
